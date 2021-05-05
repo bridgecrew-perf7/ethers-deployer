@@ -1,0 +1,11 @@
+{
+  "name": "ethers-deployer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Saad Ahmed Siddiqui",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.5.0",
+    "ethers": "^5.1.4"
+  }
+}

@@ -1,0 +1,1 @@
+Edit variables in env and run ```node index.js```
